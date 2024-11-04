@@ -5,5 +5,5 @@ image:
   repository: gokulabalan/go-port
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 11662724562
+  tag: 11663523687
 
